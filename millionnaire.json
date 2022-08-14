@@ -1,6 +1,6 @@
 {
 	"games" : {
-		{
+		[
 		    "questions" : {
 		        {
 		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
@@ -770,5 +770,5 @@
 				}
 		    }
 		}
-	}
+	]
 }

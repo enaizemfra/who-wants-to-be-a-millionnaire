@@ -5,50 +5,50 @@
 		        {
 		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
 		            "content" : {
-		                "Tag",
-		                "Simon Says",
-		                "Charades",
-		                "Hopscotch"
+		                "R1": "Tag",
+		                "R2":"Simon Says",
+		                "R3":"Charades",
+		                "R4":"Hopscotch"
 		            },
 		            "correct" : 0
 		        },
 		        {
 		            "question" : "On a radio, stations are changed by using what control?",
 		            "content" : {
-		                "Tuning",
-		                "Volume",
-		                "Bass",
-		                "Treble"
+		                "R1":"Tuning",
+		                "R2":"Volume",
+		               "R3": "Bass",
+		               "R4": "Treble"
 		            },
 		            "correct" : 0
 		        },
 		        {
 		            "question" : "Which material is most dense?",
 		            "content" : {
-		                "Silver",
-		                "Styrofoam",
-		                "Butter",
-		                "Gold"
+		                "R1":"Silver",
+		                "R2":"Styrofoam",
+		                "R3":"Butter",
+		                "R4":"Gold"
 		            },
 		            "correct" : 3
 		        },
 		        {
 		            "question" : "Which state in the United States is largest by area?",
 		            "content" : {
-		                "Alaska",
-		                "California",
-		                "Texas",
-		                "Hawaii"
+		                "R1":"Alaska",
+		                "R2":"California",
+		                "R3":"Texas",
+		                "R4":"Hawaii"
 		            },
 		            "correct" : 0
 		        },
 		        {
 		            "question" : "What is Aurora Borealis commonly known as?",
 		            "content" : {
-		                "Fairy Dust",
-		                "Northern Lights",
-		                "Book of ages",
-		                "a Game of Thrones main character"
+		                "R1":"Fairy Dust",
+		                "R2":"Northern Lights",
+		                "R3":"Book of ages",
+		                "R4":"a Game of Thrones main character"
 		            },
 		            "correct" : 1
 		        },
